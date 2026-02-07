@@ -13,7 +13,8 @@ This project demonstrates the use of **HTML `<section>` and `<div>` elements** w
 ## Screenshot
 (<img width="1693" height="975" alt="Screenshot 2026-02-07 103646" src="https://github.com/user-attachments/assets/b5b8c48d-25bc-4ec0-aea4-39f4f0f14261" />
 )
-
+(<img width="1897" height="858" alt="Screenshot 2026-02-07 103805" src="https://github.com/user-attachments/assets/56910b03-bc0a-4b0f-b96a-2db681f598af" />
+)
 > The screenshot shows the layout in VS Code with all sections and divs.
 
 ## How to Use
